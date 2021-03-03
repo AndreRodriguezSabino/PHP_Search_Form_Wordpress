@@ -7,4 +7,4 @@ function custom_search( $query ) {
         $query->set( 'post_type', array( 'product' ) );
     }
     return $query;
-    ?>
+?>
